@@ -1,0 +1,13 @@
+body {
+font-family: sans-serif;
+padding: 1em;
+max-width: 600px;
+}
+h1 {
+font-size: 180%;
+color: #ff7070;
+}
+h2 {
+font-size: 140%;
+color: #ffa0a0;
+}
