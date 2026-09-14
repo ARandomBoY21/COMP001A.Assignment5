@@ -11,3 +11,8 @@ h2 {
 font-size: 140%;
 color: #ffa0a0;
 }
+p {
+background-color: #ffe9d5;
+border: 2px #000000 solid;
+padding: 1em;
+}
